@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practicing GitHub Flow.
+My name is Kyle Tran
+I go to Orange Coast College
+I like basketball
